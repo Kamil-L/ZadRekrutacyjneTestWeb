@@ -1,0 +1,13 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                git 'https://github.com/Kamil-L/ZadRekrutacyjneTestWeb.git'
+
+                 bat "mvn clean test"
+            }
+            }
+        }
+    }
