@@ -20,7 +20,7 @@
         <cucumber-java.version>7.6.0</cucumber-java.version>
         <cucumber-junit.version>7.6.0</cucumber-junit.version>
         <assertj-core.version>3.25.3</assertj-core.version>
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <logback.version>1.4.12</logback.version>
         <cucumber-picocontainer.version>7.6.0</cucumber-picocontainer.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
